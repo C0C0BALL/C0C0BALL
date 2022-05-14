@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 #
 ![C0C0BALL's GitHub stats](https://github-readme-stats.vercel.app/api?username=C0C0BALL&show_icons=true&theme=radical)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=sdkup1317)](https://solved.ac/sdkup1317)
+[![Solved.ac 프로필]
+(http://mazassumnida.wtf/api/generate_badge?boj=sdkup1317)](https://solved.ac/sdkup1317)
 # 📫 Contacts
 [![Tech Blog Badge](https://img.shields.io/badge/-Tech%20Blog-black?logo=github&link=https://coco-ball.tistory.com)](https://coco-ball.tistory.com)
