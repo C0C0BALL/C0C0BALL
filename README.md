@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<hr>
 ![C0C0BALL's GitHub stats](https://github-readme-stats.vercel.app/api?username=C0C0BALL&show_icons=true&theme=radical)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=sdkup1317)](https://solved.ac/sdkup1317)
